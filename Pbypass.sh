@@ -15,4 +15,3 @@ elif [ "$re" == "n" ];then
 	echo -e " \e[92mOk"
 	echo "Surreal.man"
 fi
-
